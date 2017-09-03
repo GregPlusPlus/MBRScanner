@@ -6,7 +6,8 @@ CONFIG      += plugin
 TARGET      = ModernStandardMBR
 VERSION     = 1.0.0
 
-DESTDIR = ../../../release/PropertiesPlugins
+Release:DESTDIR = ../../../release/PropertiesPlugins
+Debug:DESTDIR = ../../../debug/PropertiesPlugins
 
 TEMPLATE    = lib
 
