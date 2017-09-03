@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="door-open-out">rc/Icons/door-open-out.png</file>
+        <file alias="document-binary">rc/Icons/document-binary.png</file>
+        <file alias="disk">rc/Icons/disk.png</file>
+        <file alias="hdd">rc/Icons/hdd.png</file>
+        <file alias="folder-horizontal-open">rc/Icons/folder-horizontal-open.png</file>
+        <file alias="block">rc/Icons/block.png</file>
+        <file alias="drive">rc/Icons/drive.png</file>
+        <file alias="puzzle">rc/Icons/puzzle.png</file>
+        <file alias="hourglass">rc/Icons/hourglass.png</file>
+        <file alias="information-button">rc/Icons/information-button.png</file>
+        <file alias="main-icon">rc/Icons/main-icon.png</file>
+    </qresource>
+    <qresource prefix="/css">
+        <file alias="app.qss">rc/css/app.qss</file>
+    </qresource>
+    <qresource prefix="/ui-images">
+        <file alias="dropdown_arrow">rc/UI-Images/dropdown_arrow.png</file>
+        <file alias="checkbox_checked">rc/UI-Images/checkbox_checked.png</file>
+        <file alias="scroll_bottom">rc/UI-Images/scroll_bottom.png</file>
+        <file alias="scroll_left">rc/UI-Images/scroll_left.png</file>
+        <file alias="scroll_right">rc/UI-Images/scroll_right.png</file>
+        <file alias="scroll_top">rc/UI-Images/scroll_top.png</file>
+        <file alias="size_grip">rc/UI-Images/size_grip.png</file>
+    </qresource>
+    <qresource prefix="/licenses">
+        <file alias="copying.lesser">rc/Licenses/copying.lesser.txt</file>
+        <file alias="copying">rc/Licenses/copying.txt</file>
+        <file alias="legalcode">rc/Licenses/legalcode.txt</file>
+    </qresource>
+</RCC>
